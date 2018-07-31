@@ -3,5 +3,3 @@ Welcome!
 Greatings from GitHub!
 
 Local repo talking!
-
-Master change!
